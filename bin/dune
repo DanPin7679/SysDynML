@@ -1,0 +1,4 @@
+(executable
+ (public_name sysdyn)
+ (name main)
+ (libraries chart system problem))

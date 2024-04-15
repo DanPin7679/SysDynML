@@ -1,0 +1,20 @@
+#####
+
+SYSTEM
+    Solow 
+    "Economic Growth Model"
+    [Solow1, Solow2]
+
+SUBSYS
+    Solow1
+    "Economic Growth Model"
+
+SUBSYS
+    Solow2
+    "Economic Growth Model"
+
+#####
+
+    STOCK P \"Population\"
+    []
+    []
